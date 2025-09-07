@@ -18,7 +18,7 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
-▶️ Usage
+## ▶️ Usage
 1. Clone the repository:
 git clone https://github.com/joshuataeyong/climate-sentiment-policy.git
 cd climate-sentiment-policy
@@ -27,6 +27,6 @@ cd climate-sentiment-policy
 jupyter notebook Regression_US.ipynb
 jupyter notebook Regression_KR.ipynb
 
-📜 Citation
+## 📜 Citation
 If you use this repository, please cite:
 Woo et al. (2025). Spatiotemporal Climate Sentiment Drives Support for Climate Policy across the United States and South Korea. Communications Earth & Environment.
