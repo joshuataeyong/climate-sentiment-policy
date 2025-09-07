@@ -16,6 +16,7 @@ See `requirements.txt` for details.
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
+```
 
 ▶️ Usage
 1. Clone the repository:
